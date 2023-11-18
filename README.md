@@ -10,7 +10,6 @@ Este programa exclusivo e gratuito!
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
-
 <br>
 
 <p align="center">
@@ -27,9 +26,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Figma
 
 ## 💻 Projeto
+
 O Gerador de Links como o próprio nome diz é u agregador de links que pode ser usado como cartão de visita Online.
-
-
 
 ## :memo: Licença
 
