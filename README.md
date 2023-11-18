@@ -28,7 +28,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Gerador de Links como o próprio nome diz é u agregador de links que pode ser usado como cartão de visita Online.
+O Gerador de Links como o próprio nome diz é um agregador de links que pode ser usado como cartão de visita Online.
 
 ## :memo: Licença
 
