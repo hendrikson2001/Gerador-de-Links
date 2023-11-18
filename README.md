@@ -14,7 +14,7 @@ Este programa exclusivo e gratuito!
 <br>
 
 <p align="center">
-  <img alt="Gerador de Links" src="assets/preview.jpg" width="100%">
+  <img alt="Gerador de Links" src="./assets/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
