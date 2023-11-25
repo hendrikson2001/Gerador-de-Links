@@ -43,7 +43,8 @@ body * {
 
 #container {
   /*border: 1px solid turquoise;*/
-  width: 360px;
+  width: 100%;
+  max-width: 588px;
   margin: 56px auto 0px;
   padding: 0 24px;
 }
@@ -155,3 +156,4 @@ footer {
   font-weight: 500;
   font-size: 14px;
 }
+
